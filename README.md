@@ -1,5 +1,5 @@
 # gans
-A TF library built for quickly prototyping and testing various types of GANs
+A TF library built for quickly prototyping and experimenting with various types of GANs
 
 • experiments.py: starting point of execution from which experiments can be run \
 • Algorithms.py: contains the various models + hyperparameter combinations used in each experiment \
